@@ -1,0 +1,3 @@
+com\exemplo\ewallet\controller\ContaControllerIT.class
+com\exemplo\ewallet\service\ContaServiceTest.class
+com\exemplo\ewallet\e2e\DepositoSeleniumTest.class
